@@ -1,6 +1,5 @@
 # Bayesian Market–Sports Forecasting System for the NBA
 
-## 🎯 Final Project Definition
 **Core research question**
 
 When should we trust the market, when should we trust a statistical sports model, and how does that change over time?
